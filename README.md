@@ -1,4 +1,6 @@
-1. Proper README
-2. Integration tests
-3. Programatic verification
-4. Push to GitHub
+This is my first code on github
+
+
+This codebase is all a FundMe smart contract based on foundry tool.
+
+This code have src, script and test files
